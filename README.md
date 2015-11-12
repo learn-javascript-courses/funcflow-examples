@@ -10,6 +10,6 @@ Examples for The Two Pillars of JS: Functional Flow
 ## Related
 * [The Two Pillars of JavaScript Pt. 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 * [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd).
-* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
-* [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-* [General Theory of Reactivity](https://github.com/kriskowal/gtor)
+* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A).
+* [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
+* [General Theory of Reactivity](https://github.com/kriskowal/gtor).
