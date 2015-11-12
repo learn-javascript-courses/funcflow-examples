@@ -1,6 +1,8 @@
 # funcflow-examples
 Examples for The Two Pillars of JS: Functional Flow
 
+Tweet questions @JS_Cheerleader with the hashtag #JSPillars.
+
 * [What is functional programming?](doc/fp.md)
 * [#FuncFlow slides](https://slidr.io/ericelliott/learn-to-flow-with-functional-programming#1).
 * [Imperative](https://github.com/learn-javascript-courses/funcflow-examples/blob/master/examples/double/imperative/index.js) vs [declarative](https://github.com/learn-javascript-courses/funcflow-examples/blob/master/examples/double/declarative/index.js).
