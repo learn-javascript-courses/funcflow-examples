@@ -1,5 +1,4 @@
-# funcflow-examples
-Examples for The Two Pillars of JS: Functional Flow
+# The Two Pillars of JavaScript: Introduction to Functional Programming
 
 Tweet questions @JS_Cheerleader with the hashtag #JSPillars.
 
