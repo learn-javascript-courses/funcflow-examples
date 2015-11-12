@@ -14,7 +14,7 @@ Examples for The Two Pillars of JS: Functional Flow
 ## Related
 
 * [The Two Pillars of JavaScript Pt. 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
-* [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308) for thoughts on the importance of pure functions.
+* [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308) some of my thoughts on the importance of pure functions.
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95).
 * [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd).
 * [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A).
