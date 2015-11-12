@@ -1,9 +1,9 @@
 # funcflow-examples
 Examples for The Two Pillars of JS: Functional Flow
 
-* [#FuncFlow Slides](https://slidr.io/ericelliott/learn-to-flow-with-functional-programming#1).
-* [Imperative](https://github.com/learn-javascript-courses/funcflow-examples/blob/master/examples/double/imperative/index.js) vs [Declarative](https://github.com/learn-javascript-courses/funcflow-examples/blob/master/examples/double/declarative/index.js).
-* Pure vs Impure.
+* [#FuncFlow slides](https://slidr.io/ericelliott/learn-to-flow-with-functional-programming#1).
+* [Imperative](https://github.com/learn-javascript-courses/funcflow-examples/blob/master/examples/double/imperative/index.js) vs [declarative](https://github.com/learn-javascript-courses/funcflow-examples/blob/master/examples/double/declarative/index.js).
+* Pure vs impure.
   - No side effects.
   - Given the same inputs, always returns the same output.
   - Relies on no external state.
