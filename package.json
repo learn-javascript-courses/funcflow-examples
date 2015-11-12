@@ -1,0 +1,28 @@
+{
+  "name": "funcflow-examples",
+  "version": "1.0.0",
+  "description": "Examples for The Two Pillars of JS: Functional Flow",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "babel-node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-javascript-courses/funcflow-examples.git"
+  },
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-javascript-courses/funcflow-examples/issues"
+  },
+  "homepage": "https://github.com/learn-javascript-courses/funcflow-examples#readme"
+}
