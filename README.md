@@ -15,6 +15,7 @@ Tweet questions @JS_Cheerleader with the hashtag #JSPillars.
 
 ## Related
 
+* [Don't Write for Loops](http://jamison.dance/11-06-2015/dont-write-for-loops/) (Unless you *really* need to manage looping.)
 * [The Two Pillars of JavaScript Pt. 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 * [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308) some of my thoughts on the importance of pure functions.
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95).
