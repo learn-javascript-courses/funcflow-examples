@@ -13,6 +13,57 @@ Tweet questions @JS_Cheerleader with the hashtag #JSPillars.
 * [Redux](https://github.com/rackt/redux) - App state management with pure functions (great with React).
 * [Student project](https://github.com/learn-javascript-courses/checkin#checkin)
 
+## Exploring the Store Prototype
+
+```sh
+cd <your destination folder>
+git clone git@github.com:ericelliott/checkin.git checkin-example
+cd checkin-example
+git checkout v1.1.3
+```
+
+You should see this:
+
+```
+Note: checking out 'v1.1.3'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b new_branch_name
+
+HEAD is now at 13cd6ce... 1.1.3
+```
+
+```sh
+npm install
+```
+
+Open the project in your favorite editor...
+
+```sh
+atom . #atom editor
+```
+
+Or...
+
+```sh
+subl . #sublime text
+```
+
+Vimsters, emackers, you know what to do. Notepad users, not sure what to tell you... ¯\_(ツ)_/¯
+
+Return to the terminal:
+
+```sh
+npm run watch # Auto lint & test on save
+```
+
+
 ## Related
 
 * [Don't Write for Loops](http://jamison.dance/11-06-2015/dont-write-for-loops/) (Unless you *really* need to manage looping.)
