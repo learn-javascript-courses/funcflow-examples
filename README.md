@@ -63,6 +63,8 @@ Return to the terminal:
 npm run watch # Auto lint & test on save
 ```
 
+This project is built on the [Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate#universal-react-boilerplate).
+
 
 ## Related
 
