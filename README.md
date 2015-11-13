@@ -15,6 +15,8 @@ Tweet questions @JS_Cheerleader with the hashtag #JSPillars.
 
 ## Exploring the Store Prototype
 
+In your command terminal: ([Learn about the terminal](https://github.com/jshomes/learning-resources/blob/master/tracks/dev-tools/terminal/index.md)).
+
 ```sh
 cd <your destination folder>
 git clone git@github.com:ericelliott/checkin.git checkin-example
